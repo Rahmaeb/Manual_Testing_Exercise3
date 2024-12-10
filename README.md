@@ -1,4 +1,4 @@
-# Manual Testing Exercise
+# Manual Testing Exercise3
 
 ## Project Overview  
 This repository is dedicated to documenting and validating a user input form through manual testing. The form captures data such as names, emails, phone numbers, file uploads, and testing experience, ensuring all fields adhere to mandatory and validation requirements.
